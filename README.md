@@ -56,6 +56,7 @@
 
 | Project | Domain | Key Highlights |
 | :--- | :--- | :--- |
+| **[DevSecOps CI/CD Gatekeeper](https://github.com/Shubham-Akbari/devsecops-security-gate)** | `DevSecOps` | Shift-left CI/CD pipeline using GitHub Actions, Gitleaks & Checkov to detect hardcoded secrets and Terraform misconfigurations |
 | **[aws-devsecops-s3-drift-remediation](https://github.com/Shubham-Akbari/aws-devsecops-s3-drift-remediation)** |`Python`, `AWS`, `Lambda`, `S3`, `CloudTrail`, `EventBridge`, `SNS` | Real-time AWS guardrail that detects S3 Block Public Access drift, auto-remediates via Lambda, and sends SNS alerts. | 
 | **[Mediroza Hospital Pentesting](https://github.com/Shubham-Akbari/mediroza-hosptial-pentesting)** | `Web Pentest` | Black-box assessment covering SQLi auth bypass, IDOR, weak PDF encryption & exposed DB backup |
 | **[Zero-Trust Site-to-Site VPN](https://github.com/Shubham-Akbari/Zero-Trust-VPN)** | `Zero-Trust / VPN` | Isolated Docker networks connected via WireGuard gateways & default-deny `iptables` rules |
